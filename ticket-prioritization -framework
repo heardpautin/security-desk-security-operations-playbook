@@ -1,0 +1,48 @@
+# Ticket Prioritization Framework
+
+## Objective
+Ensure incidents and service requests are categorized and prioritized consistently,
+based on business impact, security risk, and urgency.
+
+---
+
+## Priority Levels
+
+### P1 – Major Incident
+- Widespread outage
+- Safety or operational risk
+- Executive visibility required
+
+Actions:
+- Immediate escalation
+- Continuous communication
+- No unauthorized changes
+
+---
+
+### P2 – High Impact
+- Multiple users affected
+- Business function degraded
+
+Actions:
+- Rapid triage
+- Escalate to appropriate support teams
+- Document interim workarounds
+
+---
+
+### P3 – Standard Request
+- Single user
+- No security risk
+
+Actions:
+- Follow knowledge base
+- Resolve or route appropriately
+
+---
+
+## Audit & GRC Alignment
+Proper prioritization:
+- demonstrates operational maturity,
+- supports incident reporting,
+- and provides defensible evidence during audits.
